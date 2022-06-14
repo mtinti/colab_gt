@@ -1,4 +1,4 @@
-# Deep Learning Prediction and Classification of GlucosylTransferase (GT) Proteins
+# Deep Learning Prediction and Classification of GlycosylTransferase (GT) Proteins
 
 Click on the colab badge to start
 
