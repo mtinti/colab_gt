@@ -7,3 +7,7 @@ Click on the colab badge to start
 </a>
 
 
+## Description
+The notebook can be used to predict any protein sequence up to 1000 amino acids in length.
+  - Insert your protein sequences in place of the example sequences and select Runtime - Runall from the top notebook menu.
+  - The last cell will show the prediction outputs that will be also saved in the out.csv file that you can download from the left notebook menu.
