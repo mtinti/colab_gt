@@ -6,6 +6,8 @@ Click on the colab badge to start
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+<a href="https://doi.org/10.5281/zenodo.16754951"><img src="https://zenodo.org/badge/503037926.svg" alt="DOI"></a>
+
 
 ## Description
 The notebook can be used to predict any protein sequence up to 1000 amino acids in length.
